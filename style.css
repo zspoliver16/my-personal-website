@@ -30,3 +30,17 @@ body {
     background-color: #ccc;
     color: yellow;
 }
+p {
+    font-size: 70px;
+    text-align: center;
+    color: green;
+    display: block;
+    font-family: Didone;
+}
+.footer {
+    font-size: 50px;
+    text-align: center;
+    color: orange;
+    background-color: #584d;
+    padding: 30px;
+}
