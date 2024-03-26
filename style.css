@@ -5,9 +5,28 @@ body {
 .header {
     padding: 70px;
     text-align: center;
-    background: #1abc9c;
+    background: #3385f3;
     color: red;
 }
 .header h1 {
     font-size: 60px;
+}
+.navbar {
+    overflow: 20px;
+    background-color: grey;
+}
+.navbar a {
+    font-size: 40px;
+    float: right;
+    display: block;
+    color: pink;
+    text-align: center;
+    padding: 30px 28px;
+}
+.navbar a.left {
+    float: left;
+}
+.navbar a:hover {
+    background-color: #ccc;
+    color: yellow;
 }
